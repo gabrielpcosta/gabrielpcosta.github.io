@@ -30,16 +30,16 @@
 
             <div id="menuSuperior">
                 <ul id="opcoesMenu">
-                    <li id="opcaoMenu"><button type="button" class="btn btn-default btn-sm">Página Inicial</button></li>
-                    <li id="opcaoMenu"><button type="button" class="btn btn-default btn-sm">Projeto</button></li>
-                    <li id="opcaoMenu"><button type="button" class="btn btn-default btn-sm">Sobre Nós</button></li>
+                    <li id="opcaoMenu"><button type="button" class="btn btn-default btn-sm">Início</button></li>
+                    <li id="opcaoMenu"><button type="button" class="btn btn-default btn-sm">O que é</button></li>
+                    <li id="opcaoMenu"><button type="button" class="btn btn-default btn-sm">Sobre nós</button></li>
                     <li id="opcaoMenu"><button type="button" class="btn btn-default btn-sm">Contato</button></li>
                 </ul>
             </div>
         </header>
 
         <div class="container">
-            <div id="sliderContainer">
+            <div id="sliderNoticias">
 
             </div>
 
