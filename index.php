@@ -12,6 +12,10 @@
         <meta http-equiv = "Content-Type" content = "text/html;charset=utf-8"/>
         <script src="assets/angular/angular.min.js"></script>
 
+        <!-- Adiconando o favicon -->
+        <link rel = "icon" rel = "image/png" href = "favicon.ico"/> <!-- Ícone do 'S' dentro de engranegem -->
+        <!-- <link rel = "icon" rel = "image/png" href = "favicon2.png"/> Ícone da carinha de robõ -->
+
         <!-- Carregando o CSS do Bootstrap -->
         <link rel="stylesheet" media="screen" href="assets/angular/docs/components/bootstrap-3.1.1/css/bootstrap.min.css"/>
 
